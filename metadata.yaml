@@ -1,0 +1,30 @@
+_repo: Briefe-aus-der-Schweiz_2402
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2402'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, German -- 18th century -- Correspondence'
+- !lcsh 'Authors, German -- 19th century -- Correspondence'
+- !lcsh 'Switzerland -- Description and travel'
+- !lcc 'PT'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Correspondence'
+title: Briefe aus der Schweiz
+url: http://www.gutenberg.org/ebooks/2402
