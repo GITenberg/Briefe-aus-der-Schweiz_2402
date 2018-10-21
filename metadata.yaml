@@ -1,5 +1,5 @@
 _repo: Briefe-aus-der-Schweiz_2402
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Switzerland -- Description and travel'
 - !lcc 'PT'
 - !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Correspondence'
+- GITenberg
 title: Briefe aus der Schweiz
 url: http://www.gutenberg.org/ebooks/2402
